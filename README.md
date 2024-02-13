@@ -1,5 +1,5 @@
 # C.elegans-behavior-simulator
-It's a simulation based on data from genetic behavioral labs
+simulation code based on data from genetic behavioral labs
 
 
 Based on the behavioral data of C. elegans observed on the plate, the code was produced using MATLAB.
